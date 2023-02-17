@@ -1,0 +1,212 @@
+li { 
+    list-style-type: none;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.LeftBar {
+    background-color: aquamarine;
+    float: left;
+    position: fixed;
+    margin-left: 400px;
+    margin-top: 130px;
+    border-radius: 5px;
+    padding: 20px;
+    background: rgb(71,76,225);
+    background: linear-gradient(189deg, rgba(71,76,225,1) 0%, rgba(99,141,187,1) 63%);
+    font-family: 'Roboto Condensed', sans-serif;
+    border: solid 3px wheat;
+    color: white;
+
+}
+
+.Main {
+    background-color: aqua;
+    float: right;
+    position: fixed;
+    margin: auto;
+    padding-left: 5px;
+    margin-left: 700px;
+    width: 800px;
+    margin-top: 130px;
+    border-radius: 5px;
+    height: 760px;
+    background: rgb(71,76,225);
+    background: linear-gradient(194deg, rgba(71,76,225,1) 0%, rgba(99,187,166,1) 81%);
+    border: solid 3px wheat;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+
+}
+    
+
+
+body {
+    margin: 0 auto;
+    overflow: scroll;
+    background: rgb(13,20,211);
+    background: linear-gradient(216deg, rgba(13,20,211,1) 0%, rgba(132,230,179,1) 100%);
+    background-attachment: fixed;
+    
+}
+
+h2 {
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 15px;
+    width: 200px;
+    text-align: center;
+    white-space: nowrap;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.icon {
+    width: 45px;
+    height: 45px;
+    padding-right: 25px; 
+    color: #FFFF;
+
+}
+
+.Text {
+   text-align: center;
+   margin-left: 35px;
+   white-space: nowrap;
+
+}
+
+.vertical {
+    border-left: thick solid rgba(99,187,166,1);
+    border-right: thick solid rgba(99,187,166,1);
+    border-radius: 5px;
+    height: 25px;
+    width: 0px;
+    text-align: center;
+    margin-left: 257px;
+}
+
+.circle {
+    width: 25px;
+    height: 25px;
+    border-radius: 25px;
+    background: rgba(99,187,166,1);
+    margin-left: 250px;
+    white-space: nowrap;
+}
+
+.HTML-hr1 {
+    width: 700px;
+    float: left;
+    background-color: gray;
+    height: 5px;
+    margin-left: 50px;
+}
+
+
+.HTML-hr2 {
+    width: 450px;
+    float: left;
+    background-color: blue;
+    height: 5px;
+    position: absolute;
+    margin-left: 50px;
+}
+
+.Python-hr1 {
+    width: 700px;
+    float: left;
+    background-color: gray;
+    height: 5px;
+    margin-left: 50px;
+}
+
+
+.Python-hr2 {
+    width: 660px;
+    float: left;
+    background-color: blue;
+    height: 5px;
+    position: absolute;
+    margin-left: 50px;
+}
+
+.Java-hr1 {
+    width: 700px;
+    float: left;
+    background-color: gray;
+    height: 5px;
+    margin-left: 50px;
+}
+
+
+.Java-hr2 {
+    width: 35px;
+    float: left;
+    background-color: blue;
+    height: 5px;
+    position: absolute;
+    margin-left: 50px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.Game {
+    width: 45px;
+    height: 45px;
+    margin-left: 180px;
+}
+
+.Learn {
+    width: 35px;
+    height: 35px;
+    padding-left: 500px;
+}
+
+.Learn-1 {
+    padding-left: 500px;
+}
+
+.footer {
+    margin-right: 75px;
+    margin-left: 75px;
+    height: 180px;
+    background-color: wheat;
+    margin-top: 25px;
+    white-space: nowrap;
+    background: rgb(71,76,225);
+    background: linear-gradient(142deg, rgba(71,76,225,0.819765406162465) 0%, rgba(99,187,141,1) 100%);
+    border-radius: 30px;
+    padding-top: 1px;
+    border-color: black;
+    border-width: medium ;
+    border: solid 3px wheat;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+
+}
+
+.Pris p{
+    background-color: none;
+    display:inline
+}
+
+.Left {
+    float: left;
+    margin-left: 184px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.Right {
+    float: right;
+    margin-right: 164px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.space {
+    height: 25px;
+    background-color: none;
+    margin: auto 0;
+}
